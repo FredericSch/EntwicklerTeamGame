@@ -5,10 +5,10 @@ Mobile-first WebApp mit kurzen Minigames (Deutsch), die 12–15-Jährigen ohne V
 ## Inhalte (ca. 20 Minuten gesamt)
 
 - **Bug Hunt** – Befehle korrigieren und Roboter zum Ziel führen
-- 🔐 **Passwort-Rätsel** – Logikrätsel mit 5 Häusern/Kategorien
-- 🎨 **Design-Duell** – UX-Entscheidungen mit 2 Optionen vergleichen
-- 🧪 **Test-Labor** – 5 Fehler in einer Mock-Webseite finden
-- 🕵️ **Datenpfad-Detektiv** – einfache, nicht-technische Alternative zur Hacker-Idee
+- **Passwort-Rätsel** – Logikrätsel mit 5 Häusern/Kategorien
+- **Design-Duell** – UX-Entscheidungen mit 2 Optionen vergleichen
+- **Test-Labor** – 5 Fehler in einer Mock-Webseite finden
+- **Datenpfad-Detektiv** – einfache, nicht-technische Alternative zur Hacker-Idee
 
 Alle Spiele sind bewusst kurz (je ~3–4 Minuten), leicht verständlich und unabhängig voneinander. Wenn ein Spiel fehlschlägt, bleiben die anderen spielbar.
 
